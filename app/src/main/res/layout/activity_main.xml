@@ -18,10 +18,52 @@
         android:textSize="30sp"
         android:inputType="text"
         android:autofillHints="name"
-        android:hint="@string/txtNomeMsg"
+        android:hint="@string/txtEstadoMsg"
         android:layout_gravity="center_horizontal"
         android:layout_width="250dp"
         android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edtEndereco"
+        android:textSize="30sp"
+        android:inputType="text"
+        android:autofillHints="name"
+        android:hint="@string/txtEnderecoMsg"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edtBairro"
+        android:textSize="30sp"
+        android:inputType="text"
+        android:autofillHints="name"
+        android:hint="@string/txtBairroMsg"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edtCidade"
+        android:textSize="30sp"
+        android:inputType="text"
+        android:autofillHints="name"
+        android:hint="@string/txtCidadeMsg"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edtCEP"
+        android:textSize="30sp"
+        android:inputType="text"
+        android:autofillHints="name"
+        android:hint="@string/txtCEPMsg"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"/>
+
+
     <Button
         android:id="@+id/btnCadastrar"
         android:text="@string/btnCadastrar"

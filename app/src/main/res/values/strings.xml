@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">AppAula2.0</string>
     <string name="btnCadastrar">Cadastrar</string>
-    <string name="txtname"> nome: </string>
-    <string name="txtNomeMsg"> Digite seu nome</string>
+    <string name="txtname"> Olá, coloque seus dados! </string>
+    <string name="txtEstadoMsg"> Digite seu Estado</string>
+    <string name="txtEnderecoMsg"> Seu Endereço</string>
+    <string name="txtBairroMsg"> Digite seu Bairro</string>
+    <string name="txtCidadeMsg"> Digite seu Cidade</string>
+    <string name="txtCEPMsg"> Digite seu CEP</string>
 </resources>
